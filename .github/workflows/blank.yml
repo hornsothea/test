@@ -6,7 +6,7 @@ name: CI
 # events but only for the main branch
 on:
   schedule:
-    - cron: "56 10 * * *"
+    - cron: "05 * * * *"
 #   push:
 #     branches: [ main ]
 #   pull_request:
